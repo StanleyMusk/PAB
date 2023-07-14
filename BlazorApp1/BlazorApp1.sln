@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp1", "BlazorApp1.csproj", "{89D8C741-A969-46AA-B38A-FA323B42DA4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger", "..\Swagger\Swagger.csproj", "{1F109783-8D28-4461-9388-130023E1F5F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{89D8C741-A969-46AA-B38A-FA323B42DA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D8C741-A969-46AA-B38A-FA323B42DA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D8C741-A969-46AA-B38A-FA323B42DA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F109783-8D28-4461-9388-130023E1F5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F109783-8D28-4461-9388-130023E1F5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F109783-8D28-4461-9388-130023E1F5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F109783-8D28-4461-9388-130023E1F5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

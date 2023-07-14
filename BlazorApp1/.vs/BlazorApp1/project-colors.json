@@ -5,7 +5,22 @@
       "ProjectGuid": "89d8c741-a969-46aa-b38a-fa323b42da4a",
       "DisplayName": "BlazorApp1",
       "ColorIndex": 0
+    },
+    "5d6eb7d6-9ce9-4ade-b310-f9bae5223ded": {
+      "ProjectGuid": "5d6eb7d6-9ce9-4ade-b310-f9bae5223ded",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 1
+    },
+    "1f109783-8d28-4461-9388-130023e1f5f7": {
+      "ProjectGuid": "1f109783-8d28-4461-9388-130023e1f5f7",
+      "DisplayName": "Swagger",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
